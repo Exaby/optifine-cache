@@ -1,2 +1,2 @@
 # optifine-cache
-缓存 Optifine 的快照
+Python script to scrape optifine.net for optfine jar files for each version
